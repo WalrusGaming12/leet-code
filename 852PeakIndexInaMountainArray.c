@@ -1,3 +1,4 @@
+//Yves Nieto
 #include <stdio.h>
 int peakIndexInMountainArray(int* arr, int arrSize){
     if(arrSize<3){
